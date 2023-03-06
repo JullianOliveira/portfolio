@@ -126,7 +126,7 @@ header nav ul li .links-menu:hover {
 }
 
 #home div img {
-  max-width: 500px;
+  max-width: 350px;
   width: 60vw;
   background-color: var(--gray);
   border-radius: 30% 50% 30% 50%;
