@@ -24,7 +24,7 @@ html {
 
 section {
   min-height: 100vh;
-  background-image: linear-gradient(to bottom right, black, darkslategray);
+  background-image: linear-gradient(to bottom right, var(--black), var(--gray));
   padding-top: 6rem;
   text-align: center;
   overflow-x: hidden;
